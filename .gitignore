@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.gitignore/
+.idea/
+Lib/
+Scripts/
+pyvenv.cfg/
+
